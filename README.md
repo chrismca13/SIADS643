@@ -34,4 +34,5 @@ That line above is made up of 5 inputs:
 * city: (string) Name of the city.
 * output_path: (string) file path of resulting image. Example: "out.png"
 
+The result will be a new file appearing called "out.png" that plots the monthly temperature in your city of interest.
 
