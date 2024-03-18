@@ -21,7 +21,7 @@ def load_data(lat, long, alt, city_name):
     end = datetime(2024, 1, 1)
 
     # Do this so that user can input any data type for coordinates
-    # Originally meteostat library took issue with out terminal changed
+    # Originally meteostat library took issue with inputs from terminal
     # the data type. Now it forces the coordinates into a float
     coords = [lat, long, alt]
     coords_2 = []
