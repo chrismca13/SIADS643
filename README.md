@@ -1,5 +1,3 @@
-Hello!
-
 **Introduction:**
 
 The goal of this script is to return a chart of monthly temperatures given the coordinates of a city, the name of the city, and the file path the user wants their chart to be saved.
