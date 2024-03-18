@@ -36,3 +36,9 @@ That line above is made up of 5 inputs:
 
 The result will be a new file appearing called "out.png" that plots the monthly temperature in your city of interest.
 
+**Trouble shooting:**
+
+* Make sure that your coordinates closely match that of a large city. Start with the San Francisco example above if there's an error.
+* Make sure you have the relevant libraries installed. Especially meteostat - which is an API containing daily weather data.
+* This was tested in multiple environments and ran successfully - reach out to chrismca@umich.edu for help if something isn't working.
+
